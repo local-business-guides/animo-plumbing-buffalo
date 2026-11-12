@@ -27,6 +27,9 @@
 - [Pipe Repair Buffalo for Leaks and Damaged Lines](https://local-business-guides.github.io/animo-plumbing-buffalo/pipe-repair-buffalo/): Pipe Repair Buffalo from Animo Plumbing helps you address leaks and damaged lines. Buffalo, NY customers can call any time for emergency service.
 - [Water Heater Repair Buffalo for Hot Water Problems](https://local-business-guides.github.io/animo-plumbing-buffalo/water-heater-repair-buffalo/): Water Heater Repair Buffalo from Animo Plumbing helps you plan the next step when hot water fails. Buffalo, NY customers can call any time for help.
 
+## Newsroom
+- [Animo Plumbing Publishes Guide for Finding a Plumber in Buffalo NY](https://local-business-guides.github.io/animo-plumbing-buffalo/news/2026-11-12-animo-plumbing-publishes-guide-for-finding-a/): Animo Plumbing has published a Buffalo plumbing guide, with a related YouTube video, podcast episode and SoundCloud audio version. (2026-11-12)
+
 ## Pages
 - [Plumber in Buffalo, New York](https://local-business-guides.github.io/animo-plumbing-buffalo/): From plumbing repairs to HVAC service, Animo Plumbing helps Buffalo homes and businesses keep essential systems working. Call +1716-670-5800.
 - [About Animo Plumbing in Buffalo](https://local-business-guides.github.io/animo-plumbing-buffalo/about/): About Animo Plumbing, Buffalo.
@@ -34,4 +37,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/animo-plumbing-buffalo/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/animo-plumbing-buffalo/news/rss.xml)
 - [Main resource site](https://animo-plumbing-buffalo.localbusinesses1.chatgpt.site)
